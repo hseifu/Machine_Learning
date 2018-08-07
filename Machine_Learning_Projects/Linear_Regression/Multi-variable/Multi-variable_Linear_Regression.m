@@ -1,5 +1,5 @@
 %% Machine Learning Online Class
-%  Linear regression with multiple variables
+%  Linear regression with multiple variables 
 %
 %  Instructions
 %  ------------
