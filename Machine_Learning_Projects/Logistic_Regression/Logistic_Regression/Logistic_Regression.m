@@ -1,5 +1,5 @@
 %% Machine Learning Online Class
-%  Logistic Regression
+%  Logistic Regression 
 %
 %  Instructions
 %  ------------
