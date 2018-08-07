@@ -1,5 +1,5 @@
 %% Machine Learning Online Class
-%  K-Means Clustering
+%  K-Means Clustering 
 %
 %  Instructions
 %  ------------
