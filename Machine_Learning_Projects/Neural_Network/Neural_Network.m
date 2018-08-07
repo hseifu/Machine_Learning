@@ -1,5 +1,5 @@
 %% Machine Learning Online Class
-%  Neural Network Learning
+%  Neural Network Learning 
 
 %  Instructions
 %  ------------
