@@ -1,5 +1,5 @@
 %% Machine Learning Online Class 
-%  Regularized Logistic Regression
+%  Regularized Logistic Regression 
 %
 %  Instructions
 %  ------------
