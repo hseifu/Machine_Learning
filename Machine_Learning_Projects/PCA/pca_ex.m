@@ -1,5 +1,5 @@
 %% Machine Learning Online Class
-%  Principle Component Analysis
+%  Principle Component Analysis 
 %  Instructions
 %  ------------
 %
