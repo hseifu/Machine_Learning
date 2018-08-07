@@ -1,5 +1,5 @@
 %% Machine Learning Online Class 
-%  Linear Regression
+%  Linear Regression 
 
 %  Instructions
 %  ------------
