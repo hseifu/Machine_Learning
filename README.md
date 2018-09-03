@@ -21,3 +21,5 @@ Implementation of different machine learning algorithms
 [Principal Component Analysis](Machine_Learning_Projects/PCA/): PCA model to find lower dimension of faces
 
 [Convolutional Neural Network](ConvNets/): ConvNets model to differentiate cats from dogs
+
+[Q_learning](Q_learning/Taxi-v2_Q_table.ipynb): Artificially intelligent Taxi-v2, gym open-ai, game using a q_table approach
